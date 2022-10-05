@@ -485,6 +485,28 @@ header .intro-text {
   background-color: #16e465 !important;
 }
 
+@media (max-width: 992px) {
+  #menu .register {
+    background-color: transparent !important;
+  }
+  
+  #menu .login {
+    background-color: transparent !important;
+  }
+
+  .nav-reg {
+    padding: 8px 2px !important;
+  }
+
+  .signupBox {
+    width: 60% !important;
+  }
+
+  .loginBox {
+    width: 60% !important;
+  }
+}
+
 /* works Section */
 #works {
   padding: 100px 0;
