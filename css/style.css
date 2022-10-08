@@ -53,8 +53,6 @@ ol {
 ul,
 ol {
   padding: 0;
-  webkit-padding: 0;
-  moz-padding: 0;
 }
 hr {
   height: 2px;
@@ -325,14 +323,14 @@ header .intro-text {
 }
 
 
+
+
 /* Plots */
 #plots {
   padding: 8rem 0;
 }
 #plots h2 {
   margin-bottom: 3rem;
-}
-#plots .images {
 }
 #plots .images .col-md-2 {
   width: 19%;
